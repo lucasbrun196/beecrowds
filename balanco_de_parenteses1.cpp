@@ -7,8 +7,6 @@ int main(){
 
     string operation;
     while(cin >> operation){
-
-    
         stack<char> chars_queue;
         stack<char> aux;
         for(char ch: operation){
