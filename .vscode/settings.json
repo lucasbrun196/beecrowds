@@ -4,6 +4,10 @@
         "queue": "cpp",
         "iostream": "cpp",
         "vector": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "__bit_reference": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "istream": "cpp"
     }
 }
