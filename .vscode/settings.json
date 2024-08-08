@@ -8,6 +8,8 @@
         "__bit_reference": "cpp",
         "ostream": "cpp",
         "string": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "typeinfo": "cpp",
+        "set": "cpp"
     }
 }
