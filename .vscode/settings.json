@@ -19,6 +19,7 @@
         "optional": "cpp",
         "ratio": "cpp",
         "tuple": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "__locale": "cpp"
     }
 }
