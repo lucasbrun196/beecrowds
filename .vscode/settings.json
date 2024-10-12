@@ -20,6 +20,9 @@
         "ratio": "cpp",
         "tuple": "cpp",
         "new": "cpp",
-        "__locale": "cpp"
+        "__locale": "cpp",
+        "unordered_map": "cpp",
+        "utility": "cpp",
+        "__tree": "cpp"
     }
 }
