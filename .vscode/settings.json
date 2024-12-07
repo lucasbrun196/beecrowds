@@ -24,6 +24,7 @@
         "unordered_map": "cpp",
         "utility": "cpp",
         "__tree": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "locale": "cpp"
     }
 }
